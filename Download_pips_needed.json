@@ -1,5 +1,14 @@
 [
+  "os",
+  "sys",
+  "time",
+  "threading",
+  "random",
   "requests",
-  "numpy",
-  "some-other-package"
+  "psutil",
+  "ctypes",
+  "win32api",
+  "win32con",
+  "win32gui",
+  "win32process"
 ]
