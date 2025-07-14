@@ -1,14 +1,6 @@
 [
-  "os",
-  "sys",
-  "time",
-  "threading",
-  "random",
   "requests",
   "psutil",
-  "ctypes",
-  "win32api",
-  "win32con",
   "win32gui",
   "win32process"
 ]
